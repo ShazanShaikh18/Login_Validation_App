@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro", 
+            "desc": "Apple iPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/s/9/w/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrnpyygbv9.jpeg?q=70"
+        },
+        {
+            "id": 2,
+            "name": "One Plus Nord 2 5G", 
+            "desc": "OnePlus Nord Series",
+            "price": 799,
+            "color": "#00ac51",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kzblocw0/dhoti/o/h/b/0-6-months-abcd123-mantretail-original-imagbd6bmq3bh4wd.jpeg?q=70"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 14 Pro Max", 
+            "desc": "Apple iPhone 14th Generation",
+            "price": 1399,
+            "color": "#7c95eb",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/9/f/p/-original-imaghxenhnpyhn5u.jpeg?q=70"
+        },    
+        {
+            "id": 4,
+            "name": "M1 Macbook Air ", 
+            "desc": "Apple Macbook Air With Apple Silicon",
+            "price": 1099,
+            "color": "#544ee4",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70"
+        },
+        {
+            "id": 5,
+            "name": "OnePlus Buds Pro 2 Bluetooth Headset", 
+            "desc": "OnePlus Buds Pro Series",
+            "price": 450,
+            "color": "#e3e4e9",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/z/l/f/buds-pro-2-oneplus-original-imaghtn6pfhr9yya.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "Samsung Galaxy S21 Ultra", 
+            "desc": "Samsung Galaxy S21 Ultra 2021 Edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kjvrdzk0/mobile/t/x/3/samsung-galaxy-s21-ultra-sm-g998bzkginu-original-imafzck6uhtqufby.jpeg?q=70"
+        },
+        {
+            "id": 7,
+            "name": "Pebble Cosmos Ultra Smartwatch", 
+            "desc": "Pebble Cosmos Ultra 1.91inch 600 nits BT-Calling High-Res Curved Display",
+            "price": 300,
+            "color": "#e5e6e8",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/smartwatch/a/f/z/-original-imaghudxz5cjuugy.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "Google Pixel 6A", 
+            "desc": "Google Pixel Phone 6th Generation",
+            "price": 850,
+            "color": "#e0bfae",
+            "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70"
+        }
+    ]
+}
